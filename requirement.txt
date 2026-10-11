@@ -1,0 +1,11 @@
+ streamlit
+python-dotenv
+pydantic>=2
+pillow
+langgraph
+langchain-core
+langchain-community
+langchain-openai
+langchain-groq
+tavily-python
+google-genai
